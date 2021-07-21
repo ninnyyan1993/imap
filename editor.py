@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*
 
 import global_var
 import modules.map.proto as proto
